@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Formfield/static/css/main.22958979.css",
+    "main.js": "/Formfield/static/js/main.b01b9c1c.js",
+    "static/js/787.70845bf6.chunk.js": "/Formfield/static/js/787.70845bf6.chunk.js",
+    "index.html": "/Formfield/index.html",
+    "main.22958979.css.map": "/Formfield/static/css/main.22958979.css.map",
+    "main.b01b9c1c.js.map": "/Formfield/static/js/main.b01b9c1c.js.map",
+    "787.70845bf6.chunk.js.map": "/Formfield/static/js/787.70845bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22958979.css",
+    "static/js/main.b01b9c1c.js"
+  ]
+}
