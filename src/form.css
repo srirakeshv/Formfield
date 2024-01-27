@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    margin: 30px auto;
+    max-width: 500px;
+    width: 100%;
+    padding: 20px;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.123);
+    border-radius: 10px;
+}
+.name{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    font-size: 20px;
+}
+.name input{
+    border: 1px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+}
+.name input:focus{
+    outline: 0;
+}
+.name .text{
+    margin: 0;
+    color: darkorange;
+    border-bottom: 1px dashed darkorange;
+    cursor: pointer;
+}
+.display{
+    display: none !important;
+}
+.name .icon{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.name .icon .x-mark{
+    color: black;
+    cursor: pointer;
+}
